@@ -7,8 +7,8 @@
 * Zor    (3)
 
 ## Ekran Görüntüleri
-Kazanıncaki Hali
+### ***Kazanıncaki Hali***
 ![Başarılı](https://github.com/mehmetalidurusoy/ConsoleApp_ADIMADIM/blob/master/Images/Basarili.JPG?raw=true)
 
-Kaybedinceki Hali
+### ***Kaybedinceki Hali***
 ![Başarılı](https://github.com/mehmetalidurusoy/ConsoleApp_ADIMADIM/blob/master/Images/Hata.JPG?raw=true)
